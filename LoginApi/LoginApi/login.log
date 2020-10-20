@@ -1,0 +1,280 @@
+INFO  11:45:16 Application started. Press Ctrl+C to shut down.
+INFO  11:45:16 Application started. Press Ctrl+C to shut down.
+INFO  11:45:16 Hosting environment: Development
+INFO  11:45:16 Hosting environment: Development
+INFO  11:45:16 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  11:45:16 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  11:45:16 Failed to determine the https port for redirect.
+WARN  11:45:16 Failed to determine the https port for redirect.
+INFO  11:45:55 Authentication initiated
+INFO  11:45:59 Authentication Successful for User_Id -1
+INFO  08:21:33 Application started. Press Ctrl+C to shut down.
+INFO  08:21:33 Application started. Press Ctrl+C to shut down.
+INFO  08:21:33 Hosting environment: Development
+INFO  08:21:33 Hosting environment: Development
+INFO  08:21:33 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  08:21:33 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  08:21:33 Failed to determine the https port for redirect.
+WARN  08:21:33 Failed to determine the https port for redirect.
+INFO  09:48:22 Application started. Press Ctrl+C to shut down.
+INFO  09:48:22 Application started. Press Ctrl+C to shut down.
+INFO  09:48:22 Hosting environment: Development
+INFO  09:48:22 Hosting environment: Development
+INFO  09:48:22 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  09:48:22 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  09:48:22 Failed to determine the https port for redirect.
+WARN  09:48:22 Failed to determine the https port for redirect.
+INFO  10:20:25 Application started. Press Ctrl+C to shut down.
+INFO  10:20:25 Application started. Press Ctrl+C to shut down.
+INFO  10:20:25 Hosting environment: Development
+INFO  10:20:25 Hosting environment: Development
+INFO  10:20:25 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  10:20:25 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  10:20:25 Failed to determine the https port for redirect.
+WARN  10:20:25 Failed to determine the https port for redirect.
+INFO  10:22:42 Authentication initiated
+INFO  10:22:46 Authentication Successful for User_Id -1
+INFO  10:31:51 Application started. Press Ctrl+C to shut down.
+INFO  10:31:51 Application started. Press Ctrl+C to shut down.
+INFO  10:31:51 Hosting environment: Development
+INFO  10:31:51 Hosting environment: Development
+INFO  10:31:51 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  10:31:51 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  10:31:51 Failed to determine the https port for redirect.
+WARN  10:31:51 Failed to determine the https port for redirect.
+INFO  10:32:48 Authentication initiated
+INFO  10:32:50 Authentication Successful for User_Id -1
+INFO  11:11:13 Application started. Press Ctrl+C to shut down.
+INFO  11:11:13 Application started. Press Ctrl+C to shut down.
+INFO  11:11:13 Hosting environment: Development
+INFO  11:11:13 Hosting environment: Development
+INFO  11:11:13 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  11:11:13 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  11:11:13 Failed to determine the https port for redirect.
+WARN  11:11:13 Failed to determine the https port for redirect.
+INFO  11:12:40 Authentication initiated
+INFO  11:12:42 Authentication UnSuccessful for User_Id -0
+INFO  11:42:20 Application started. Press Ctrl+C to shut down.
+INFO  11:42:20 Application started. Press Ctrl+C to shut down.
+INFO  11:42:20 Hosting environment: Development
+INFO  11:42:20 Hosting environment: Development
+INFO  11:42:20 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  11:42:20 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  11:42:20 Failed to determine the https port for redirect.
+WARN  11:42:20 Failed to determine the https port for redirect.
+INFO  11:53:35 Application started. Press Ctrl+C to shut down.
+INFO  11:53:35 Application started. Press Ctrl+C to shut down.
+INFO  11:53:35 Hosting environment: Development
+INFO  11:53:35 Hosting environment: Development
+INFO  11:53:35 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  11:53:35 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  11:53:35 Failed to determine the https port for redirect.
+WARN  11:53:35 Failed to determine the https port for redirect.
+INFO  12:01:32 Application started. Press Ctrl+C to shut down.
+INFO  12:01:32 Application started. Press Ctrl+C to shut down.
+INFO  12:01:32 Hosting environment: Development
+INFO  12:01:32 Hosting environment: Development
+INFO  12:01:32 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  12:01:32 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  12:01:32 Failed to determine the https port for redirect.
+WARN  12:01:32 Failed to determine the https port for redirect.
+INFO  12:03:44 Application started. Press Ctrl+C to shut down.
+INFO  12:03:44 Application started. Press Ctrl+C to shut down.
+INFO  12:03:44 Hosting environment: Development
+INFO  12:03:44 Hosting environment: Development
+INFO  12:03:44 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  12:03:44 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  12:03:44 Failed to determine the https port for redirect.
+WARN  12:03:44 Failed to determine the https port for redirect.
+INFO  12:04:11 Authentication initiated
+INFO  12:05:41 Authentication Successful for User_Id -1
+INFO  12:06:03 Application started. Press Ctrl+C to shut down.
+INFO  12:06:03 Application started. Press Ctrl+C to shut down.
+INFO  12:06:03 Hosting environment: Development
+INFO  12:06:03 Hosting environment: Development
+INFO  12:06:03 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  12:06:03 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  12:06:03 Failed to determine the https port for redirect.
+WARN  12:06:03 Failed to determine the https port for redirect.
+INFO  12:06:58 Authentication initiated
+INFO  12:08:50 Application started. Press Ctrl+C to shut down.
+INFO  12:08:50 Application started. Press Ctrl+C to shut down.
+INFO  12:08:50 Hosting environment: Development
+INFO  12:08:50 Hosting environment: Development
+INFO  12:08:50 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  12:08:50 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  12:08:50 Failed to determine the https port for redirect.
+WARN  12:08:50 Failed to determine the https port for redirect.
+INFO  12:09:28 Authentication initiated
+INFO  12:16:32 Authentication Successful for User_Id -1
+INFO  12:20:12 Application started. Press Ctrl+C to shut down.
+INFO  12:20:12 Application started. Press Ctrl+C to shut down.
+INFO  12:20:12 Hosting environment: Development
+INFO  12:20:12 Hosting environment: Development
+INFO  12:20:12 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  12:20:12 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  12:20:12 Failed to determine the https port for redirect.
+WARN  12:20:12 Failed to determine the https port for redirect.
+INFO  12:29:11 Application started. Press Ctrl+C to shut down.
+INFO  12:29:11 Application started. Press Ctrl+C to shut down.
+INFO  12:29:11 Hosting environment: Development
+INFO  12:29:11 Hosting environment: Development
+INFO  12:29:11 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  12:29:11 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  12:29:11 Failed to determine the https port for redirect.
+WARN  12:29:11 Failed to determine the https port for redirect.
+INFO  12:29:59 Authentication initiated
+INFO  12:30:01 Authentication Successful for User_Id -1
+INFO  12:52:48 Application started. Press Ctrl+C to shut down.
+INFO  12:52:48 Application started. Press Ctrl+C to shut down.
+INFO  12:52:48 Hosting environment: Development
+INFO  12:52:48 Hosting environment: Development
+INFO  12:52:48 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  12:52:48 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  12:52:49 Failed to determine the https port for redirect.
+WARN  12:52:49 Failed to determine the https port for redirect.
+INFO  12:54:44 Authentication initiated
+INFO  12:54:44 Token Generation initiated
+INFO  12:56:09 Application started. Press Ctrl+C to shut down.
+INFO  12:56:09 Application started. Press Ctrl+C to shut down.
+INFO  12:56:09 Hosting environment: Development
+INFO  12:56:09 Hosting environment: Development
+INFO  12:56:09 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  12:56:09 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  12:56:09 Failed to determine the https port for redirect.
+WARN  12:56:09 Failed to determine the https port for redirect.
+INFO  01:08:44 Authentication initiated
+INFO  01:08:47 Authentication Successful for User_Id -1
+INFO  01:09:06 Authentication initiated
+INFO  01:09:28 Authentication initiated
+INFO  01:09:28 Token Generation initiated
+INFO  01:31:45 Authentication initiated
+INFO  01:31:45 Token Generation initiated
+INFO  01:34:04 Application started. Press Ctrl+C to shut down.
+INFO  01:34:04 Application started. Press Ctrl+C to shut down.
+INFO  01:34:04 Hosting environment: Development
+INFO  01:34:04 Hosting environment: Development
+INFO  01:34:04 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  01:34:04 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  01:34:04 Failed to determine the https port for redirect.
+WARN  01:34:04 Failed to determine the https port for redirect.
+INFO  01:34:35 Authentication initiated
+INFO  01:34:37 Token Generation initiated
+INFO  01:41:46 Application started. Press Ctrl+C to shut down.
+INFO  01:41:46 Application started. Press Ctrl+C to shut down.
+INFO  01:41:46 Hosting environment: Development
+INFO  01:41:46 Hosting environment: Development
+INFO  01:41:46 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  01:41:46 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  01:41:46 Failed to determine the https port for redirect.
+WARN  01:41:46 Failed to determine the https port for redirect.
+INFO  01:42:09 Authentication initiated
+INFO  01:42:11 Token Generation initiated
+INFO  01:43:19 Application started. Press Ctrl+C to shut down.
+INFO  01:43:19 Application started. Press Ctrl+C to shut down.
+INFO  01:43:19 Hosting environment: Development
+INFO  01:43:19 Hosting environment: Development
+INFO  01:43:19 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  01:43:19 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  01:43:19 Failed to determine the https port for redirect.
+WARN  01:43:19 Failed to determine the https port for redirect.
+INFO  02:14:26 Authentication initiated
+INFO  02:14:28 Authentication Successful for User_Id -1
+INFO  02:15:01 Authentication initiated
+INFO  02:15:02 Token Generation initiated
+INFO  02:23:48 Application started. Press Ctrl+C to shut down.
+INFO  02:23:48 Application started. Press Ctrl+C to shut down.
+INFO  02:23:48 Hosting environment: Development
+INFO  02:23:48 Hosting environment: Development
+INFO  02:23:48 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  02:23:48 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  02:23:48 Failed to determine the https port for redirect.
+WARN  02:23:48 Failed to determine the https port for redirect.
+INFO  02:34:55 Application started. Press Ctrl+C to shut down.
+INFO  02:34:55 Application started. Press Ctrl+C to shut down.
+INFO  02:34:55 Hosting environment: Development
+INFO  02:34:55 Hosting environment: Development
+INFO  02:34:55 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  02:34:55 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  02:34:55 Failed to determine the https port for redirect.
+WARN  02:34:55 Failed to determine the https port for redirect.
+INFO  02:58:17 Application started. Press Ctrl+C to shut down.
+INFO  02:58:17 Application started. Press Ctrl+C to shut down.
+INFO  02:58:17 Hosting environment: Development
+INFO  02:58:17 Hosting environment: Development
+INFO  02:58:17 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  02:58:17 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  02:58:17 Failed to determine the https port for redirect.
+WARN  02:58:17 Failed to determine the https port for redirect.
+INFO  03:16:21 Application started. Press Ctrl+C to shut down.
+INFO  03:16:21 Application started. Press Ctrl+C to shut down.
+INFO  03:16:21 Hosting environment: Development
+INFO  03:16:21 Hosting environment: Development
+INFO  03:16:21 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  03:16:21 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  03:16:21 Failed to determine the https port for redirect.
+WARN  03:16:21 Failed to determine the https port for redirect.
+INFO  03:31:57 Application started. Press Ctrl+C to shut down.
+INFO  03:31:57 Application started. Press Ctrl+C to shut down.
+INFO  03:31:57 Hosting environment: Development
+INFO  03:31:57 Hosting environment: Development
+INFO  03:31:57 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  03:31:57 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  03:31:57 Failed to determine the https port for redirect.
+WARN  03:31:57 Failed to determine the https port for redirect.
+INFO  03:33:31 Application started. Press Ctrl+C to shut down.
+INFO  03:33:31 Application started. Press Ctrl+C to shut down.
+INFO  03:33:31 Hosting environment: Development
+INFO  03:33:31 Hosting environment: Development
+INFO  03:33:31 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  03:33:31 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  03:33:31 Failed to determine the https port for redirect.
+WARN  03:33:31 Failed to determine the https port for redirect.
+INFO  03:34:32 Application started. Press Ctrl+C to shut down.
+INFO  03:34:32 Application started. Press Ctrl+C to shut down.
+INFO  03:34:32 Hosting environment: Development
+INFO  03:34:32 Hosting environment: Development
+INFO  03:34:32 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  03:34:32 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  03:34:32 Failed to determine the https port for redirect.
+WARN  03:34:32 Failed to determine the https port for redirect.
+INFO  03:44:06 Application started. Press Ctrl+C to shut down.
+INFO  03:44:06 Application started. Press Ctrl+C to shut down.
+INFO  03:44:06 Hosting environment: Development
+INFO  03:44:06 Hosting environment: Development
+INFO  03:44:06 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  03:44:06 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  03:44:06 Failed to determine the https port for redirect.
+WARN  03:44:06 Failed to determine the https port for redirect.
+INFO  05:48:51 Application started. Press Ctrl+C to shut down.
+INFO  05:48:51 Application started. Press Ctrl+C to shut down.
+INFO  05:48:51 Hosting environment: Development
+INFO  05:48:51 Hosting environment: Development
+INFO  05:48:51 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  05:48:51 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  05:48:51 Failed to determine the https port for redirect.
+WARN  05:48:51 Failed to determine the https port for redirect.
+INFO  06:25:15 Application started. Press Ctrl+C to shut down.
+INFO  06:25:15 Application started. Press Ctrl+C to shut down.
+INFO  06:25:15 Hosting environment: Development
+INFO  06:25:15 Hosting environment: Development
+INFO  06:25:15 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  06:25:15 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  06:25:15 Failed to determine the https port for redirect.
+WARN  06:25:15 Failed to determine the https port for redirect.
+INFO  06:30:31 Application started. Press Ctrl+C to shut down.
+INFO  06:30:31 Application started. Press Ctrl+C to shut down.
+INFO  06:30:31 Hosting environment: Development
+INFO  06:30:31 Hosting environment: Development
+INFO  06:30:31 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  06:30:31 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  06:30:31 Failed to determine the https port for redirect.
+WARN  06:30:31 Failed to determine the https port for redirect.
+INFO  07:07:21 Application started. Press Ctrl+C to shut down.
+INFO  07:07:21 Application started. Press Ctrl+C to shut down.
+INFO  07:07:21 Hosting environment: Development
+INFO  07:07:21 Hosting environment: Development
+INFO  07:07:21 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+INFO  07:07:21 Content root path: C:\Users\31129\source\repos\LibraryManagement\LoginApi\LoginApi
+WARN  07:07:21 Failed to determine the https port for redirect.
+WARN  07:07:21 Failed to determine the https port for redirect.

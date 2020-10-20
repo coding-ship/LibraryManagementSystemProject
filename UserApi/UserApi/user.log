@@ -1,0 +1,198 @@
+INFO  11:19:39 Application started. Press Ctrl+C to shut down.
+INFO  11:19:39 Application started. Press Ctrl+C to shut down.
+INFO  11:19:39 Hosting environment: Development
+INFO  11:19:39 Hosting environment: Development
+INFO  11:19:39 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  11:19:39 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  11:19:39 Failed to determine the https port for redirect.
+WARN  11:19:39 Failed to determine the https port for redirect.
+INFO  11:19:57  Http Get request Book_Issued initiated
+INFO  01:44:40 Application started. Press Ctrl+C to shut down.
+INFO  01:44:40 Application started. Press Ctrl+C to shut down.
+INFO  01:44:40 Hosting environment: Development
+INFO  01:44:40 Hosting environment: Development
+INFO  01:44:40 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  01:44:40 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  01:44:40 Failed to determine the https port for redirect.
+WARN  01:44:40 Failed to determine the https port for redirect.
+INFO  01:47:58  Http Get request Book_Issued initiated
+INFO  02:03:27  Http Get request Book_Issued initiated
+INFO  02:04:18  Http Get request Book_Issued initiated
+INFO  02:10:10 Application started. Press Ctrl+C to shut down.
+INFO  02:10:10 Application started. Press Ctrl+C to shut down.
+INFO  02:10:10 Hosting environment: Development
+INFO  02:10:10 Hosting environment: Development
+INFO  02:10:10 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  02:10:10 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  02:10:10 Failed to determine the https port for redirect.
+WARN  02:10:10 Failed to determine the https port for redirect.
+INFO  02:10:48  Http Put request UpdateDetail initiated
+INFO  09:25:46 Application started. Press Ctrl+C to shut down.
+INFO  09:25:47 Application started. Press Ctrl+C to shut down.
+INFO  09:25:47 Hosting environment: Development
+INFO  09:25:47 Hosting environment: Development
+INFO  09:25:47 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  09:25:47 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  09:25:47 Failed to determine the https port for redirect.
+WARN  09:25:47 Failed to determine the https port for redirect.
+INFO  09:26:55  Http Get request Book_Issued initiated
+INFO  11:08:29 Application started. Press Ctrl+C to shut down.
+INFO  11:08:29 Application started. Press Ctrl+C to shut down.
+INFO  11:08:29 Hosting environment: Development
+INFO  11:08:29 Hosting environment: Development
+INFO  11:08:29 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  11:08:29 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  11:08:29 Failed to determine the https port for redirect.
+WARN  11:08:29 Failed to determine the https port for redirect.
+INFO  11:11:22 Application started. Press Ctrl+C to shut down.
+INFO  11:11:22 Application started. Press Ctrl+C to shut down.
+INFO  11:11:22 Hosting environment: Development
+INFO  11:11:22 Hosting environment: Development
+INFO  11:11:22 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  11:11:22 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  11:11:22 Failed to determine the https port for redirect.
+WARN  11:11:22 Failed to determine the https port for redirect.
+INFO  05:32:16 Application started. Press Ctrl+C to shut down.
+INFO  05:32:16 Application started. Press Ctrl+C to shut down.
+INFO  05:32:16 Hosting environment: Development
+INFO  05:32:16 Hosting environment: Development
+INFO  05:32:16 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  05:32:16 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  05:32:16 Failed to determine the https port for redirect.
+WARN  05:32:16 Failed to determine the https port for redirect.
+INFO  05:33:07  Http Get request Book_Issued initiated
+INFO  05:34:35  Http Get request Book_Issued initiated
+INFO  05:35:47  Http Get request Book_Issued initiated
+INFO  06:29:12 Application started. Press Ctrl+C to shut down.
+INFO  06:29:12 Application started. Press Ctrl+C to shut down.
+INFO  06:29:12 Hosting environment: Development
+INFO  06:29:12 Hosting environment: Development
+INFO  06:29:12 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  06:29:12 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  06:29:12 Failed to determine the https port for redirect.
+WARN  06:29:12 Failed to determine the https port for redirect.
+INFO  06:29:28  Http Get request Book_Issued initiated
+INFO  06:30:02  Http Get request Book_Issued initiated
+INFO  06:30:02  Http Get request Book_Issued initiated
+INFO  06:52:10 Application started. Press Ctrl+C to shut down.
+INFO  06:52:10 Application started. Press Ctrl+C to shut down.
+INFO  06:52:10 Hosting environment: Development
+INFO  06:52:10 Hosting environment: Development
+INFO  06:52:10 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  06:52:10 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  06:52:10 Failed to determine the https port for redirect.
+WARN  06:52:10 Failed to determine the https port for redirect.
+INFO  06:52:28  Http GetBookDetails request Initiated
+INFO  06:54:16  Http GetBookDetails request Initiated
+INFO  06:55:29  Http Get request Book_Issued initiated
+INFO  06:55:38  Http GetBookDetails request Initiated
+INFO  06:59:25  Http Get request Book_Issued initiated
+INFO  06:59:25  Http Get request Book_Issued initiated
+INFO  06:59:33  Http GetBookDetails request Initiated
+INFO  07:00:55  Http GetBookDetails request Initiated
+INFO  07:01:01  Http Get request Book_Issued initiated
+INFO  07:03:11 Application started. Press Ctrl+C to shut down.
+INFO  07:03:11 Application started. Press Ctrl+C to shut down.
+INFO  07:03:11 Hosting environment: Development
+INFO  07:03:11 Hosting environment: Development
+INFO  07:03:11 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  07:03:11 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  07:03:11 Failed to determine the https port for redirect.
+WARN  07:03:11 Failed to determine the https port for redirect.
+ERROR 07:03:26 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:03:26 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:04:02 Application started. Press Ctrl+C to shut down.
+INFO  07:04:02 Application started. Press Ctrl+C to shut down.
+INFO  07:04:02 Hosting environment: Development
+INFO  07:04:02 Hosting environment: Development
+INFO  07:04:02 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  07:04:02 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  07:04:02 Failed to determine the https port for redirect.
+WARN  07:04:02 Failed to determine the https port for redirect.
+ERROR 07:04:31 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:04:31 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:04:52 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:04:52 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:05:02 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:05:02 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:06:56 Application started. Press Ctrl+C to shut down.
+INFO  07:06:56 Application started. Press Ctrl+C to shut down.
+INFO  07:06:56 Hosting environment: Development
+INFO  07:06:56 Hosting environment: Development
+INFO  07:06:56 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  07:06:56 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  07:06:56 Failed to determine the https port for redirect.
+WARN  07:06:56 Failed to determine the https port for redirect.
+INFO  07:07:39  Http Get request Book_Issued initiated
+INFO  07:07:45  Http Get request Book_Issued initiated
+INFO  07:08:04  Http GetBookDetails request Initiated
+INFO  09:34:21 Application started. Press Ctrl+C to shut down.
+INFO  09:34:21 Application started. Press Ctrl+C to shut down.
+INFO  09:34:21 Hosting environment: Development
+INFO  09:34:21 Hosting environment: Development
+INFO  09:34:21 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  09:34:21 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  09:34:21 Failed to determine the https port for redirect.
+WARN  09:34:21 Failed to determine the https port for redirect.
+INFO  09:34:56 Application started. Press Ctrl+C to shut down.
+INFO  09:34:57 Application started. Press Ctrl+C to shut down.
+INFO  09:34:57 Hosting environment: Development
+INFO  09:34:57 Hosting environment: Development
+INFO  09:34:57 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  09:34:57 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  09:34:57 Failed to determine the https port for redirect.
+WARN  09:34:57 Failed to determine the https port for redirect.
+INFO  09:34:58  Http Get request Book_Issued initiated
+INFO  09:53:38 Application started. Press Ctrl+C to shut down.
+INFO  09:53:38 Application started. Press Ctrl+C to shut down.
+INFO  09:53:38 Hosting environment: Development
+INFO  09:53:38 Hosting environment: Development
+INFO  09:53:38 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+INFO  09:53:38 Content root path: C:\Users\31129\source\repos\LibraryManagement\UserApi\UserApi
+WARN  09:53:38 Failed to determine the https port for redirect.
+WARN  09:53:38 Failed to determine the https port for redirect.
+INFO  09:53:57  Http Get request Book_Issued initiated
+INFO  09:54:03  Http GetBookDetails request Initiated
+INFO  09:54:08  Http GetBookDetails request Initiated
+INFO  09:54:24  Http GetBookDetails request Initiated
+INFO  09:54:37  Http Get request Book_Issued initiated

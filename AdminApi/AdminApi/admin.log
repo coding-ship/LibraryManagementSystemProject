@@ -1,0 +1,686 @@
+INFO  10:58:03 Application started. Press Ctrl+C to shut down.
+INFO  10:58:03 Application started. Press Ctrl+C to shut down.
+INFO  10:58:03 Hosting environment: Development
+INFO  10:58:03 Hosting environment: Development
+INFO  10:58:03 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  10:58:03 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  10:58:03 Failed to determine the https port for redirect.
+WARN  10:58:03 Failed to determine the https port for redirect.
+INFO  10:58:24  Http GetBookDetails request Initiated
+INFO  11:49:41 Application started. Press Ctrl+C to shut down.
+INFO  11:49:41 Application started. Press Ctrl+C to shut down.
+WARN  11:49:41 Failed to determine the https port for redirect.
+WARN  11:49:41 Failed to determine the https port for redirect.
+INFO  11:49:41 Hosting environment: Development
+INFO  11:49:41 Hosting environment: Development
+INFO  11:49:41 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  11:49:41 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+ERROR 11:50:09 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Admin/GetBookDetails" for actions - AdminApi.Controllers.AdminController.GetBookDetails (AdminApi),AdminApi.Controllers.AdminController.GetBookDetails (AdminApi). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:50:09 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Admin/GetBookDetails" for actions - AdminApi.Controllers.AdminController.GetBookDetails (AdminApi),AdminApi.Controllers.AdminController.GetBookDetails (AdminApi). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  11:50:57 Application started. Press Ctrl+C to shut down.
+INFO  11:50:57 Application started. Press Ctrl+C to shut down.
+INFO  11:50:57 Hosting environment: Development
+INFO  11:50:57 Hosting environment: Development
+INFO  11:50:57 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  11:50:57 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  11:50:57 Failed to determine the https port for redirect.
+WARN  11:50:57 Failed to determine the https port for redirect.
+ERROR 11:51:08 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Admin/GetBookDetails" for actions - AdminApi.Controllers.AdminController.GetBookDetails (AdminApi),AdminApi.Controllers.AdminController.GetBookDetails (AdminApi). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:51:08 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Admin/GetBookDetails" for actions - AdminApi.Controllers.AdminController.GetBookDetails (AdminApi),AdminApi.Controllers.AdminController.GetBookDetails (AdminApi). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:51:13 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Admin/GetBookDetails" for actions - AdminApi.Controllers.AdminController.GetBookDetails (AdminApi),AdminApi.Controllers.AdminController.GetBookDetails (AdminApi). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:51:13 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Admin/GetBookDetails" for actions - AdminApi.Controllers.AdminController.GetBookDetails (AdminApi),AdminApi.Controllers.AdminController.GetBookDetails (AdminApi). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  11:52:11 Application started. Press Ctrl+C to shut down.
+INFO  11:52:11 Application started. Press Ctrl+C to shut down.
+INFO  11:52:11 Hosting environment: Development
+INFO  11:52:11 Hosting environment: Development
+INFO  11:52:11 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  11:52:11 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  11:52:12 Failed to determine the https port for redirect.
+WARN  11:52:12 Failed to determine the https port for redirect.
+ERROR 11:52:18 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Admin/GetBookDetails" for actions - AdminApi.Controllers.AdminController.GetBookDetails (AdminApi),AdminApi.Controllers.AdminController.GetBookDetails (AdminApi). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:52:18 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Admin/GetBookDetails" for actions - AdminApi.Controllers.AdminController.GetBookDetails (AdminApi),AdminApi.Controllers.AdminController.GetBookDetails (AdminApi). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  11:53:01 Application started. Press Ctrl+C to shut down.
+INFO  11:53:01 Application started. Press Ctrl+C to shut down.
+INFO  11:53:01 Hosting environment: Development
+INFO  11:53:01 Hosting environment: Development
+INFO  11:53:01 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  11:53:01 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  11:53:01 Failed to determine the https port for redirect.
+WARN  11:53:01 Failed to determine the https port for redirect.
+ERROR 11:53:07 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Admin/GetBookDetails" for actions - AdminApi.Controllers.AdminController.GetBookDetails (AdminApi),AdminApi.Controllers.AdminController.GetBookDetails (AdminApi). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:53:07 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Admin/GetBookDetails" for actions - AdminApi.Controllers.AdminController.GetBookDetails (AdminApi),AdminApi.Controllers.AdminController.GetBookDetails (AdminApi). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  11:54:21 Application started. Press Ctrl+C to shut down.
+INFO  11:54:21 Application started. Press Ctrl+C to shut down.
+INFO  11:54:21 Hosting environment: Development
+INFO  11:54:21 Hosting environment: Development
+INFO  11:54:21 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  11:54:21 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  11:54:21 Failed to determine the https port for redirect.
+WARN  11:54:21 Failed to determine the https port for redirect.
+INFO  11:54:51 Application started. Press Ctrl+C to shut down.
+INFO  11:54:51 Application started. Press Ctrl+C to shut down.
+INFO  11:54:51 Hosting environment: Development
+INFO  11:54:51 Hosting environment: Development
+INFO  11:54:51 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  11:54:51 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  11:54:52 Failed to determine the https port for redirect.
+WARN  11:54:52 Failed to determine the https port for redirect.
+INFO  11:59:41  Http GetBookDetails request Initiated
+INFO  12:06:29 Application started. Press Ctrl+C to shut down.
+INFO  12:06:29 Application started. Press Ctrl+C to shut down.
+INFO  12:06:29 Hosting environment: Development
+INFO  12:06:29 Hosting environment: Development
+INFO  12:06:29 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  12:06:29 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  12:06:29 Failed to determine the https port for redirect.
+WARN  12:06:29 Failed to determine the https port for redirect.
+INFO  12:06:46  Http request GetBookDetails as per Bookid  Initiated
+INFO  12:07:59  Http GetBookDetails request Initiated
+INFO  12:08:14  Http request GetBookDetails as per Bookid  Initiated
+INFO  12:09:12  Http request GetBookDetails as per Bookid  Initiated
+INFO  12:11:11  Http GetBookDetails request Initiated
+INFO  12:11:15  Http request GetBookDetails as per Bookid  Initiated
+INFO  12:12:30  Http GetBookDetails request Initiated
+INFO  12:12:52  Http request GetBookDetails as per Bookid  Initiated
+INFO  12:16:18  Http request AddBook Initiated
+INFO  12:26:15  Http GetBookDetails request Initiated
+INFO  12:27:04  Http GetBookDetails request Initiated
+INFO  12:29:41  Http GetBookDetails request Initiated
+INFO  12:31:30  Http GetBookDetails request Initiated
+INFO  12:33:09  Http request AddBook Initiated
+INFO  12:33:58  Http GetBookDetails request Initiated
+INFO  12:34:14  Http GetBookDetails request Initiated
+INFO  12:41:21  Http request UpdateBookRecord Initiated
+INFO  12:44:34 Application started. Press Ctrl+C to shut down.
+INFO  12:44:34 Application started. Press Ctrl+C to shut down.
+INFO  12:44:34 Hosting environment: Development
+INFO  12:44:34 Hosting environment: Development
+INFO  12:44:34 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  12:44:34 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  12:44:34 Failed to determine the https port for redirect.
+WARN  12:44:34 Failed to determine the https port for redirect.
+INFO  12:55:57 Application started. Press Ctrl+C to shut down.
+INFO  12:55:57 Application started. Press Ctrl+C to shut down.
+INFO  12:55:57 Hosting environment: Development
+INFO  12:55:57 Hosting environment: Development
+INFO  12:55:57 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  12:55:57 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  12:55:57 Failed to determine the https port for redirect.
+WARN  12:55:57 Failed to determine the https port for redirect.
+INFO  12:57:21 Application started. Press Ctrl+C to shut down.
+INFO  12:57:21 Application started. Press Ctrl+C to shut down.
+INFO  12:57:21 Hosting environment: Development
+INFO  12:57:21 Hosting environment: Development
+INFO  12:57:21 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  12:57:21 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  12:57:21 Failed to determine the https port for redirect.
+WARN  12:57:21 Failed to determine the https port for redirect.
+INFO  12:57:37  Http GetBookDetails request Initiated
+INFO  12:58:54  Http GetBookDetails request Initiated
+INFO  01:05:49 Application started. Press Ctrl+C to shut down.
+INFO  01:05:49 Application started. Press Ctrl+C to shut down.
+INFO  01:05:49 Hosting environment: Development
+INFO  01:05:49 Hosting environment: Development
+INFO  01:05:49 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  01:05:49 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  01:05:49 Failed to determine the https port for redirect.
+WARN  01:05:49 Failed to determine the https port for redirect.
+INFO  01:06:02  Http GetBookDetails request Initiated
+INFO  01:06:44  Http request UpdateBookRecord Initiated
+INFO  01:07:09 Application started. Press Ctrl+C to shut down.
+INFO  01:07:09 Application started. Press Ctrl+C to shut down.
+INFO  01:07:09 Hosting environment: Development
+INFO  01:07:09 Hosting environment: Development
+INFO  01:07:09 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  01:07:09 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  01:07:09 Failed to determine the https port for redirect.
+WARN  01:07:09 Failed to determine the https port for redirect.
+INFO  01:07:39  Http request UpdateBookRecord Initiated
+INFO  01:11:54  Http GetBookDetails request Initiated
+INFO  01:11:58  Http request GetBookDetails as per Bookid  Initiated
+INFO  01:12:45  Http request UpdateBookRecord Initiated
+INFO  01:12:53  Http GetBookDetails request Initiated
+INFO  01:12:57  Http GetBookDetails request Initiated
+INFO  01:12:59  Http GetBookDetails request Initiated
+INFO  01:13:06  Http request GetBookDetails as per Bookid  Initiated
+INFO  01:13:30  Http request UpdateBookRecord Initiated
+INFO  01:13:49  Http request UpdateBookRecord Initiated
+INFO  01:15:11  Http GetBookDetails request Initiated
+INFO  01:15:48  Http request UpdateBookRecord Initiated
+INFO  01:15:55  Http GetBookDetails request Initiated
+INFO  01:16:35  Http request UpdateBookRecord Initiated
+INFO  01:16:39  Http request UpdateBookRecord Initiated
+INFO  01:16:44  Http GetBookDetails request Initiated
+INFO  01:18:09  Http GetBookDetails request Initiated
+INFO  01:20:10  Http request UpdateBookRecord Initiated
+INFO  01:21:30  Http request UpdateBookRecord Initiated
+INFO  01:21:44  Http GetBookDetails request Initiated
+INFO  01:23:51  Http request GetBookDetails as per Bookid  Initiated
+INFO  01:24:02  Http request GetBookDetails as per Bookid  Initiated
+INFO  01:24:05  Http request GetBookDetails as per Bookid  Initiated
+INFO  01:24:11  Http request GetBookDetails as per Bookid  Initiated
+INFO  01:26:57  Http GetBookDetails request Initiated
+INFO  01:27:43  Http request UpdateBookRecord Initiated
+INFO  01:27:47  Http GetBookDetails request Initiated
+INFO  01:28:13  Http request GetBookDetails as per Bookid  Initiated
+INFO  01:28:38  Http request UpdateBookRecord Initiated
+INFO  01:28:52  Http request UpdateBookRecord Initiated
+INFO  01:29:02  Http request UpdateBookRecord Initiated
+INFO  01:29:06  Http GetBookDetails request Initiated
+INFO  01:31:03  Http request RemoveBook Initiated
+INFO  01:34:58  Http GetBookDetails request Initiated
+INFO  01:35:38  Http request AddBook Initiated
+INFO  01:35:38  Http GetBookDetails request Initiated
+INFO  01:35:43  Http request RemoveBook Initiated
+INFO  01:35:43  Http GetBookDetails request Initiated
+INFO  01:35:47  Http request RemoveBook Initiated
+INFO  01:35:47  Http GetBookDetails request Initiated
+INFO  01:35:48  Http request RemoveBook Initiated
+INFO  01:35:48  Http GetBookDetails request Initiated
+INFO  01:38:12  Http GetBookDetails request Initiated
+INFO  01:38:20  Http request RemoveBook Initiated
+INFO  01:38:20  Http GetBookDetails request Initiated
+INFO  01:38:27  Http request RemoveBook Initiated
+INFO  01:38:27  Http GetBookDetails request Initiated
+INFO  01:38:29  Http request RemoveBook Initiated
+INFO  01:38:29  Http GetBookDetails request Initiated
+INFO  01:38:30  Http request RemoveBook Initiated
+INFO  01:38:30  Http GetBookDetails request Initiated
+INFO  01:38:31  Http request RemoveBook Initiated
+INFO  01:38:31  Http GetBookDetails request Initiated
+INFO  01:38:31  Http request RemoveBook Initiated
+INFO  01:38:31  Http GetBookDetails request Initiated
+INFO  01:38:44  Http request RemoveBook Initiated
+INFO  01:38:44  Http GetBookDetails request Initiated
+INFO  01:38:52  Http request RemoveBook Initiated
+INFO  01:38:52  Http GetBookDetails request Initiated
+INFO  01:39:06  Http request RemoveBook Initiated
+INFO  01:39:07  Http GetBookDetails request Initiated
+INFO  01:40:19  Http GetBookDetails request Initiated
+INFO  10:13:47 Application started. Press Ctrl+C to shut down.
+INFO  10:13:47 Application started. Press Ctrl+C to shut down.
+INFO  10:13:48 Hosting environment: Development
+INFO  10:13:48 Hosting environment: Development
+INFO  10:13:48 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  10:13:48 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  10:13:48 Failed to determine the https port for redirect.
+WARN  10:13:48 Failed to determine the https port for redirect.
+INFO  10:14:12  Http GetBookDetails request Initiated
+INFO  10:14:26  Http request GetBookDetails as per Bookid  Initiated
+INFO  10:14:29  Http GetBookDetails request Initiated
+INFO  10:18:41  Http GetBookDetails request Initiated
+INFO  10:19:26 Application started. Press Ctrl+C to shut down.
+INFO  10:19:26 Application started. Press Ctrl+C to shut down.
+INFO  10:19:26 Hosting environment: Development
+INFO  10:19:26 Hosting environment: Development
+INFO  10:19:26 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  10:19:26 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  10:19:26 Failed to determine the https port for redirect.
+WARN  10:19:26 Failed to determine the https port for redirect.
+INFO  10:20:28  Http GetBookDetails request Initiated
+INFO  10:20:50  Http GetBookDetails request Initiated
+INFO  10:21:06  Http GetBookDetails request Initiated
+INFO  10:21:08  Http GetBookDetails request Initiated
+INFO  10:21:20  Http request GetBookDetails as per Bookid  Initiated
+INFO  10:21:59  Http request RemoveBook Initiated
+INFO  10:22:00  Http GetBookDetails request Initiated
+INFO  10:22:52  Http request RemoveBook Initiated
+INFO  10:34:25 Application started. Press Ctrl+C to shut down.
+INFO  10:34:25 Application started. Press Ctrl+C to shut down.
+INFO  10:34:25 Hosting environment: Development
+INFO  10:34:25 Hosting environment: Development
+INFO  10:34:25 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  10:34:25 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  10:34:25 Failed to determine the https port for redirect.
+WARN  10:34:25 Failed to determine the https port for redirect.
+INFO  10:34:47  Http request RemoveBook Initiated
+INFO  10:34:59  Http GetBookDetails request Initiated
+INFO  10:35:14  Http request RemoveBook Initiated
+INFO  10:35:52  Http GetBookDetails request Initiated
+INFO  10:36:19  Http request AddBook Initiated
+INFO  10:36:19  Http GetBookDetails request Initiated
+INFO  10:36:50  Http request UpdateBookRecord Initiated
+INFO  10:36:50  Http GetBookDetails request Initiated
+INFO  10:37:02  Http request GetBookDetails as per Bookid  Initiated
+INFO  10:37:07  Http request RemoveBook Initiated
+INFO  10:37:07  Http GetBookDetails request Initiated
+INFO  10:37:09  Http request RemoveBook Initiated
+INFO  10:37:09  Http GetBookDetails request Initiated
+INFO  10:37:11  Http request RemoveBook Initiated
+INFO  10:37:11  Http GetBookDetails request Initiated
+INFO  10:40:07 Application started. Press Ctrl+C to shut down.
+INFO  10:40:07 Application started. Press Ctrl+C to shut down.
+INFO  10:40:07 Hosting environment: Development
+INFO  10:40:07 Hosting environment: Development
+INFO  10:40:07 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  10:40:07 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  10:40:07 Failed to determine the https port for redirect.
+WARN  10:40:07 Failed to determine the https port for redirect.
+INFO  10:44:27 Application started. Press Ctrl+C to shut down.
+INFO  10:44:27 Application started. Press Ctrl+C to shut down.
+INFO  10:44:27 Hosting environment: Development
+INFO  10:44:27 Hosting environment: Development
+INFO  10:44:27 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  10:44:27 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  10:44:27 Failed to determine the https port for redirect.
+WARN  10:44:27 Failed to determine the https port for redirect.
+INFO  10:45:11  Http GetBookDetails request Initiated
+INFO  10:45:19  Http request RemoveBook Initiated
+INFO  10:45:19  Http GetBookDetails request Initiated
+INFO  10:45:22  Http request RemoveBook Initiated
+INFO  10:45:22  Http GetBookDetails request Initiated
+INFO  10:45:23  Http request RemoveBook Initiated
+INFO  10:45:24  Http GetBookDetails request Initiated
+INFO  10:45:51  Http request RemoveBook Initiated
+INFO  10:45:51  Http GetBookDetails request Initiated
+INFO  10:45:57  Http request RemoveBook Initiated
+INFO  10:45:57  Http GetBookDetails request Initiated
+INFO  10:53:14  Http GetBookDetails request Initiated
+INFO  10:59:46  Http GetBookDetails request Initiated
+INFO  10:59:54  Http request GetBookDetails as per Bookid  Initiated
+INFO  11:00:01  Http request RemoveBook Initiated
+INFO  11:00:01  Http GetBookDetails request Initiated
+INFO  11:00:04  Http request RemoveBook Initiated
+INFO  11:00:04  Http GetBookDetails request Initiated
+INFO  11:00:06  Http request RemoveBook Initiated
+INFO  11:00:06  Http GetBookDetails request Initiated
+INFO  11:00:07  Http request RemoveBook Initiated
+INFO  11:00:07  Http GetBookDetails request Initiated
+INFO  11:01:38  Http request RemoveBook Initiated
+INFO  11:03:07  Http GetBookDetails request Initiated
+INFO  11:03:07  Http GetBookDetails request Initiated
+INFO  11:04:55  Http GetBookDetails request Initiated
+INFO  11:04:55  Http GetBookDetails request Initiated
+INFO  11:05:07  Http request RemoveBook Initiated
+INFO  11:05:07  Http GetBookDetails request Initiated
+INFO  11:10:00  Http request RegisterNewUser Initiated
+INFO  11:13:09  Http GetBookDetails request Initiated
+INFO  11:13:20  Http request RegisterNewUser Initiated
+INFO  11:14:33  Http GetBookDetails request Initiated
+INFO  11:14:48  Http request RegisterNewUser Initiated
+INFO  11:17:56  Http request IssueBook Initiated
+INFO  11:50:15 Application started. Press Ctrl+C to shut down.
+INFO  11:50:15 Application started. Press Ctrl+C to shut down.
+INFO  11:50:15 Hosting environment: Development
+INFO  11:50:15 Hosting environment: Development
+INFO  11:50:15 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  11:50:15 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  11:50:15 Failed to determine the https port for redirect.
+WARN  11:50:15 Failed to determine the https port for redirect.
+INFO  11:51:58  Http request IssueBook Initiated
+INFO  11:55:47 Application started. Press Ctrl+C to shut down.
+INFO  11:55:47 Application started. Press Ctrl+C to shut down.
+INFO  11:55:47 Hosting environment: Development
+INFO  11:55:47 Hosting environment: Development
+INFO  11:55:47 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  11:55:47 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  11:55:47 Failed to determine the https port for redirect.
+WARN  11:55:47 Failed to determine the https port for redirect.
+INFO  11:56:51  Http request IssueBook Initiated
+INFO  11:57:26  Http request RegisterNewUser Initiated
+INFO  12:00:44 Application started. Press Ctrl+C to shut down.
+INFO  12:00:44 Application started. Press Ctrl+C to shut down.
+INFO  12:00:44 Hosting environment: Development
+INFO  12:00:44 Hosting environment: Development
+INFO  12:00:44 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  12:00:44 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  12:00:44 Failed to determine the https port for redirect.
+WARN  12:00:44 Failed to determine the https port for redirect.
+INFO  12:01:12  Http request IssueBook Initiated
+INFO  12:01:39 Application started. Press Ctrl+C to shut down.
+INFO  12:01:39 Application started. Press Ctrl+C to shut down.
+INFO  12:01:39 Hosting environment: Development
+INFO  12:01:39 Hosting environment: Development
+INFO  12:01:39 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  12:01:39 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  12:01:39 Failed to determine the https port for redirect.
+WARN  12:01:39 Failed to determine the https port for redirect.
+INFO  12:03:34  Http request IssueBook Initiated
+INFO  12:04:36  Http GetBookDetails request Initiated
+INFO  12:04:47  Http request RegisterNewUser Initiated
+INFO  12:07:23 Application started. Press Ctrl+C to shut down.
+INFO  12:07:23 Application started. Press Ctrl+C to shut down.
+INFO  12:07:23 Hosting environment: Development
+INFO  12:07:23 Hosting environment: Development
+INFO  12:07:23 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  12:07:23 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  12:07:23 Failed to determine the https port for redirect.
+WARN  12:07:23 Failed to determine the https port for redirect.
+INFO  12:07:39  Http GetBookDetails request Initiated
+INFO  12:07:56  Http request RegisterNewUser Initiated
+INFO  12:08:41  Http request IssueBook Initiated
+INFO  12:08:42  Http request RegisterNewUser Initiated
+INFO  12:10:00  Http GetBookDetails request Initiated
+INFO  12:10:05  Http request RegisterNewUser Initiated
+INFO  12:13:18 Application started. Press Ctrl+C to shut down.
+INFO  12:13:18 Application started. Press Ctrl+C to shut down.
+INFO  12:13:18 Hosting environment: Development
+INFO  12:13:18 Hosting environment: Development
+INFO  12:13:18 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  12:13:18 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  12:13:19 Failed to determine the https port for redirect.
+WARN  12:13:19 Failed to determine the https port for redirect.
+INFO  12:13:37  Http GetBookDetails request Initiated
+INFO  12:13:44  Http request RegisterNewUser Initiated
+INFO  12:14:23  Http request IssueBook Initiated
+INFO  12:14:24  Http request RegisterNewUser Initiated
+INFO  12:16:13 Application started. Press Ctrl+C to shut down.
+INFO  12:16:13 Application started. Press Ctrl+C to shut down.
+INFO  12:16:13 Hosting environment: Development
+INFO  12:16:13 Hosting environment: Development
+INFO  12:16:13 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  12:16:13 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  12:16:13 Failed to determine the https port for redirect.
+WARN  12:16:13 Failed to determine the https port for redirect.
+INFO  12:16:44  Http GetBookDetails request Initiated
+INFO  12:16:52  Http request RegisterNewUser Initiated
+INFO  12:17:20  Http request IssueBook Initiated
+INFO  12:17:21  Http request RegisterNewUser Initiated
+INFO  12:21:27  Http request RegisterNewUser Initiated
+INFO  12:24:59  Http GetBookDetails request Initiated
+INFO  12:25:04  Http request RegisterNewUser Initiated
+INFO  12:25:49  Http request RegisterNewUser Initiated
+INFO  12:25:49  Http GetBookDetails request Initiated
+INFO  02:24:51 Application started. Press Ctrl+C to shut down.
+INFO  02:24:51 Application started. Press Ctrl+C to shut down.
+INFO  02:24:51 Hosting environment: Development
+INFO  02:24:51 Hosting environment: Development
+INFO  02:24:51 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  02:24:51 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  02:24:51 Failed to determine the https port for redirect.
+WARN  02:24:51 Failed to determine the https port for redirect.
+ERROR 04:43:51 Failed executing DbCommand (1,014ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [AdminCredential] (
+    [Id] int NOT NULL IDENTITY,
+    [User_Id] int NOT NULL,
+    [Name] nvarchar(max) NOT NULL,
+    [password] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_AdminCredential] PRIMARY KEY ([Id])
+);
+INFO  05:13:48 Application started. Press Ctrl+C to shut down.
+INFO  05:13:48 Application started. Press Ctrl+C to shut down.
+INFO  05:13:48 Hosting environment: Development
+INFO  05:13:48 Hosting environment: Development
+INFO  05:13:48 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  05:13:48 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  05:13:49 Failed to determine the https port for redirect.
+WARN  05:13:49 Failed to determine the https port for redirect.
+INFO  05:14:02  Http GetBookDetails request Initiated
+INFO  05:14:15  Http request GetBookDetails as per Bookid  Initiated
+INFO  05:14:46  Http request IssueBook Initiated
+INFO  05:15:37  Http request RegisterNewUser Initiated
+ERROR 05:15:38 Failed executing DbCommand (99ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Usercheck] ([Id], [Password])
+VALUES (@p0, @p1);
+ERROR 05:15:38 Failed executing DbCommand (99ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Usercheck] ([Id], [Password])
+VALUES (@p0, @p1);
+ERROR 05:15:38 An exception occurred in the database while saving changes for context type 'AdminApi.Models.DatabaseDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Usercheck' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:c21ddd68-c6d0-4bfe-b4b5-13c5c0b81e78
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Usercheck' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:c21ddd68-c6d0-4bfe-b4b5-13c5c0b81e78
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ERROR 05:15:38 An exception occurred in the database while saving changes for context type 'AdminApi.Models.DatabaseDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Usercheck' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:c21ddd68-c6d0-4bfe-b4b5-13c5c0b81e78
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Usercheck' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:c21ddd68-c6d0-4bfe-b4b5-13c5c0b81e78
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+INFO  05:15:57  Http request RegisterNewUser Initiated
+INFO  05:16:13  Http request RegisterNewUser Initiated
+INFO  05:16:43 Application started. Press Ctrl+C to shut down.
+INFO  05:16:43 Application started. Press Ctrl+C to shut down.
+INFO  05:16:43 Hosting environment: Development
+INFO  05:16:43 Hosting environment: Development
+INFO  05:16:43 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  05:16:43 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  05:16:43 Failed to determine the https port for redirect.
+WARN  05:16:43 Failed to determine the https port for redirect.
+INFO  05:17:31  Http GetBookDetails request Initiated
+INFO  05:18:03  Http request AddBook Initiated
+INFO  05:18:03  Http GetBookDetails request Initiated
+INFO  05:18:07  Http request GetBookDetails as per Bookid  Initiated
+INFO  05:18:12  Http request RemoveBook Initiated
+INFO  05:18:12  Http GetBookDetails request Initiated
+INFO  05:18:20  Http request RegisterNewUser Initiated
+INFO  05:19:51  Http GetBookDetails request Initiated
+INFO  05:21:42  Http GetBookDetails request Initiated
+INFO  05:26:17  Http GetBookDetails request Initiated
+INFO  05:26:25  Http request RegisterNewUser Initiated
+INFO  05:27:55  Http request IssueBook Initiated
+INFO  05:27:55  Http request RegisterNewUser Initiated
+INFO  05:30:58  Http GetBookDetails request Initiated
+INFO  06:26:34 Application started. Press Ctrl+C to shut down.
+INFO  06:26:34 Application started. Press Ctrl+C to shut down.
+INFO  06:26:34 Hosting environment: Development
+INFO  06:26:34 Hosting environment: Development
+INFO  06:26:34 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  06:26:34 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  06:26:34 Failed to determine the https port for redirect.
+WARN  06:26:34 Failed to determine the https port for redirect.
+INFO  06:27:35  Http GetBookDetails request Initiated
+INFO  06:27:35  Http GetBookDetails request Initiated
+INFO  06:28:11  Http request AddBook Initiated
+INFO  06:28:11  Http GetBookDetails request Initiated
+INFO  06:28:14  Http request GetBookDetails as per Bookid  Initiated
+INFO  06:28:23  Http request RemoveBook Initiated
+INFO  06:28:24  Http GetBookDetails request Initiated
+INFO  06:30:02  Http GetBookDetails request Initiated
+INFO  06:33:49  Http GetBookDetails request Initiated
+INFO  08:08:09 Application started. Press Ctrl+C to shut down.
+INFO  08:08:09 Application started. Press Ctrl+C to shut down.
+INFO  08:08:09 Hosting environment: Development
+INFO  08:08:09 Hosting environment: Development
+INFO  08:08:09 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  08:08:09 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  08:08:10 Failed to determine the https port for redirect.
+WARN  08:08:10 Failed to determine the https port for redirect.
+INFO  08:08:51  Http request RegisterNewUser Initiated
+INFO  08:09:25  Http GetBookDetails request Initiated
+INFO  08:09:53  Http request RegisterNewUser Initiated
+INFO  08:09:54  Http GetBookDetails request Initiated
+INFO  08:11:36  Http GetBookDetails request Initiated
+INFO  08:14:39  Http GetBookDetails request Initiated
+INFO  08:14:45  Http GetBookDetails request Initiated
+INFO  08:16:35  Http GetBookDetails request Initiated
+INFO  08:18:16  Http GetBookDetails request Initiated
+INFO  08:19:45  Http GetBookDetails request Initiated
+INFO  08:20:19  Http request AddBook Initiated
+INFO  08:20:19  Http GetBookDetails request Initiated
+INFO  08:21:20  Http request AddBook Initiated
+INFO  08:21:20  Http GetBookDetails request Initiated
+INFO  08:21:30  Http request RegisterNewUser Initiated
+INFO  08:22:27  Http GetBookDetails request Initiated
+INFO  08:22:42  Http request RegisterNewUser Initiated
+INFO  09:39:49 Application started. Press Ctrl+C to shut down.
+INFO  09:39:49 Application started. Press Ctrl+C to shut down.
+INFO  09:39:49 Hosting environment: Development
+INFO  09:39:49 Hosting environment: Development
+INFO  09:39:49 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+INFO  09:39:49 Content root path: C:\Users\31129\source\repos\LibraryManagement\AdminApi\AdminApi
+WARN  09:39:49 Failed to determine the https port for redirect.
+WARN  09:39:49 Failed to determine the https port for redirect.
+INFO  09:40:11  Http GetBookDetails request Initiated
+INFO  09:41:42  Http GetBookDetails request Initiated
+INFO  09:43:58  Http GetBookDetails request Initiated
+INFO  09:44:49  Http GetBookDetails request Initiated
+INFO  09:48:12  Http GetBookDetails request Initiated
+INFO  09:48:55  Http GetBookDetails request Initiated
+INFO  09:49:37  Http GetBookDetails request Initiated
+INFO  09:50:21  Http GetBookDetails request Initiated
+INFO  09:53:56  Http GetBookDetails request Initiated

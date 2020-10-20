@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginApi", "LoginApi\LoginApi.csproj", "{67DFD45D-1682-47E7-974E-9E4DCA6B034A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginTesting", "LoginTesting\LoginTesting.csproj", "{C6273F44-43C3-493E-8D43-2A9751EBD174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67DFD45D-1682-47E7-974E-9E4DCA6B034A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DFD45D-1682-47E7-974E-9E4DCA6B034A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DFD45D-1682-47E7-974E-9E4DCA6B034A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DFD45D-1682-47E7-974E-9E4DCA6B034A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6273F44-43C3-493E-8D43-2A9751EBD174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6273F44-43C3-493E-8D43-2A9751EBD174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6273F44-43C3-493E-8D43-2A9751EBD174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6273F44-43C3-493E-8D43-2A9751EBD174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A3F9C7A-ACA8-4766-8B4D-76BCC6C6C429}
+	EndGlobalSection
+EndGlobal
